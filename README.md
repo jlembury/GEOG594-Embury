@@ -5,3 +5,8 @@ This repository contains projects and materials related to the Fall 2020 GEOG/BD
 
 ### Big Data: _A Personal Definition_
 > Big Data deals with complex datasets that often require collaborative multi-disciplinary teams and software development to be fully utilized and understood. Although large in volume, the size of Big Data is subjective and changes over time.
+
+### :world_map: Repository Road Map: 
+* [Lab 2](https://github.com/jlembury/GEOG594-Embury/tree/master/594-lab02): R and R-Studio
+  * Make charts for cancer data using ggplot2.
+  * Make wordclouds from text files with RColorBrewer, tdm, twitteR, and wordcloud.
