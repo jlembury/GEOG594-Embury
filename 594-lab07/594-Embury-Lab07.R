@@ -1,6 +1,6 @@
 # GEOG594 Lab 07: Topic Modeling Using LDA
-# Jessica Embury
-# Date: 11/12/20
+# Jessica Embury 
+# Date: 11/13/20
 
 # install R packages
 install.packages(c("plyr","stringr","tm","SnowballC","lda","LDAvis"))
